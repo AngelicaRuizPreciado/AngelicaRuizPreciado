@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hello%20Word!&reversal=false&textBg=false&fontColor=ffffff&fontSize=85&animation=fadeIn&desc=Welcome%20to%20my%20portfolio!&descAlignY=70&stroke=a3b8c8" />
 
 <!--
 **AngelicaRuizPreciado/AngelicaRuizPreciado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
