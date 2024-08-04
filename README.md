@@ -43,7 +43,7 @@ hobbies: ["Reading", "Gaming", "Drawing", "Creative Writing"]
   <img width=48% src="https://github-readme-stats.vercel.app/api?username=AngelicaRuizPreciado&show_icons=true&theme=tokyonight"/><img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaRuizPreciado&layout=compact&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/AngelicaRuizPreciado/AngelicaRuizPreciado/blob/output/github-contribution-grid-snake.svg)
+<img src=https://github.com/AngelicaRuizPreciado/AngelicaRuizPreciado/blob/output/github-contribution-grid-snake.svg)/>
           
 
 <!--
