@@ -48,7 +48,7 @@ hobbies: ["Reading", "Gaming", "Drawing", "Creative Writing"]
   <a href="ruizpre.ang@gmail.com">
     <img height="70p" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-256.png"/>
   </a>
-    <a href="ruizpre.ang@gmail.com">
+    <a href="https://www.linkedin.com/in/angelica-ruiz-preciado-b665aa321?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4dZAraZWR8eDvFlGFWtpXw%3D%3D">
     <img height="70p" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-256.png"/>
   </a>
   
