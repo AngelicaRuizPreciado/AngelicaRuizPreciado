@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hello%20Word!&reversal=false&textBg=false&fontColor=ffffff&fontSize=85&animation=fadeIn&desc=Welcome%20to%20my%20portfolio!&descAlignY=70&stroke=a3b8c8" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hello%20World!&reversal=false&textBg=false&fontColor=ffffff&fontSize=85&animation=fadeIn&desc=Welcome%20to%20my%20portfolio!&descAlignY=70&stroke=a3b8c8" />
 
 <h1>✨ About me </h1>
 
@@ -38,10 +38,12 @@ hobbies: ["Reading", "Gaming", "Drawing", "Creative Writing"]
   <img height="60p" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />         
 </p>
 
-<p padding="10p">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=AngelicaRuizPreciado&show_icons=true&theme=tokyonight"/><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaRuizPreciado&layout=compact&theme=tokyonight"/>
-</p>
-          
+<h1></h1>
+<div display="flex" align-items="center">
+  <img width=48% src="https://github-readme-stats.vercel.app/api?username=AngelicaRuizPreciado&show_icons=true&theme=tokyonight"/><img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaRuizPreciado&layout=compact&theme=tokyonight"/>
+</div>
+
+![Snake animation](https://github.com/AngelicaRuizPreciado/AngelicaRuizPreciado/blob/output/github-contribution-grid-snake.svg)
           
 
 <!--
