@@ -43,7 +43,20 @@ hobbies: ["Reading", "Gaming", "Drawing", "Creative Writing"]
   <img width=45% src="https://github-readme-stats.vercel.app/api?username=AngelicaRuizPreciado&show_icons=true&theme=tokyonight"/><img width=50% align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaRuizPreciado&layout=compact&theme=tokyonight"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&reversal=false&textBg=false&fontColor=ffffff&fontSize=85&animation=fadeIn&descAlignY=70&stroke=a3b8c8&section=footer"/>
+<h1>✨How to reach me</h1>
+<p align="center" padding="20"> 
+  <a href="ruizpre.ang@gmail.com">
+    <img height="70p" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-256.png"/>
+  </a>
+    <a href="ruizpre.ang@gmail.com">
+    <img height="70p" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-256.png"/>
+  </a>
+  
+</p>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&reversal=false&textBg=false&fontColor=ffffff&fontSize=85&animation=fadeIn&descAlignY=70&stroke=a3b8c8&section=footer"/>
           
 
 <!--
