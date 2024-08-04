@@ -39,8 +39,8 @@ hobbies: ["Reading", "Gaming", "Drawing", "Creative Writing"]
 </p>
 
 <h1></h1>
-<div>
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=AngelicaRuizPreciado&show_icons=true&theme=tokyonight"/><img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaRuizPreciado&layout=compact&theme=tokyonight"/>
+<div display=flex align-items= center justify-content= space-between >
+  <img width=45% src="https://github-readme-stats.vercel.app/api?username=AngelicaRuizPreciado&show_icons=true&theme=tokyonight"/><img width=50% align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaRuizPreciado&layout=compact&theme=tokyonight"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&reversal=false&textBg=false&fontColor=ffffff&fontSize=85&animation=fadeIn&descAlignY=70&stroke=a3b8c8&section=footer"/>
