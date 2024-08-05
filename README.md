@@ -19,6 +19,12 @@ interests:
   "Data Visualization"
   "Human-Centered Computer Science"
   ]
+language-proficiencies:
+  [
+  "Spanish: native speaker"
+  "Italian: C1"
+  "English: C1"
+  ]
 currently_learning: ["PostgreSQL, front end development"]
 current_goals: ["Find an internship"]
 hobbies: ["Reading", "Gaming", "Drawing", "Creative Writing"]
