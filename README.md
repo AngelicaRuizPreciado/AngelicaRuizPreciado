@@ -45,7 +45,7 @@ hobbies: ["Reading", "Gaming", "Drawing", "Creative Writing"]
 
 <h1>✨How to reach me</h1>
 <p align="center" padding="20"> 
-  <a href="ruizpre.ang@gmail.com">
+  <a href="mailto:ruizpre.ang@gmail.com">
     <img height="70p" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-256.png"/>
   </a>
     <a href="https://www.linkedin.com/in/angelica-ruiz-preciado-b665aa321?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4dZAraZWR8eDvFlGFWtpXw%3D%3D">
@@ -54,10 +54,9 @@ hobbies: ["Reading", "Gaming", "Drawing", "Creative Writing"]
   
 </p>
 
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&reversal=false&textBg=false&fontColor=ffffff&fontSize=85&animation=fadeIn&descAlignY=70&stroke=a3b8c8&section=footer"/>
           
+
 
 <!--
 **AngelicaRuizPreciado/AngelicaRuizPreciado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
