@@ -11,11 +11,11 @@ current_job: null
 education:
   [
   "Scientific high school diploma"
-  "Currently enrolled in Computer Science Bachelor's degree"
+  "Computer Science Bachelor's degree"
   ]
 interests:
   [
-  "Web Development"
+  "Data Science"
   "Data Visualization"
   "Human-Centered Computer Science"
   ]
@@ -25,8 +25,8 @@ language-proficiencies:
   "Italian: C1"
   "English: C1"
   ]
-currently_learning: ["PostgreSQL, front end development"]
-current_goals: ["Find an internship"]
+currently_learning: ["Data science tools", "Digital humanities"]
+current_goals: ["Find a job"]
 hobbies: ["Reading", "Gaming", "Drawing", "Creative Writing"]
 ```
 
